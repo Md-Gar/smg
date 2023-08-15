@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .tb{
+  
+    color: #e7f3e8;
+    font-size: larger;
+  }
+
+  div{
+    padding-bottom: 10px;
+  }
